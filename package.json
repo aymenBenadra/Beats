@@ -1,0 +1,19 @@
+{
+  "name": "beats",
+  "version": "1.0.0",
+  "description": "Beat making is easier than ever with this project where you can play sounds and play with the tempo right inside the browser.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymenBenadra/Beats.git"
+  },
+  "author": "Mohammed-Aymen Benadra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aymenBenadra/Beats/issues"
+  },
+  "homepage": "https://github.com/aymenBenadra/Beats#readme"
+}
